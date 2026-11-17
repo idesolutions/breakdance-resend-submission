@@ -1,0 +1,17 @@
+.bdrs ul { margin: 0; }
+.bdrs-emails ul { margin: 0 0 12px; }
+.bdrs-emails li { margin: 0 0 8px; }
+.bdrs-emails label { display: block; }
+.bdrs-to { color: #646970; word-break: break-all; }
+.bdrs-skip { color: #996800; }
+.bdrs-empty { color: #646970; font-style: italic; }
+.bdrs-result:empty { display: none; }
+.bdrs-result { margin: 0 0 12px; padding: 4px 10px; }
+.bdrs-result ul { margin: 6px 0; }
+.bdrs-ok { color: #007017; }
+.bdrs-fail { color: #b32d2e; }
+.bdrs-log { margin-top: 8px; border-top: 1px solid #dcdcde; padding-top: 8px; }
+.bdrs-log summary { cursor: pointer; font-weight: 600; }
+.bdrs-log > ul > li { margin: 8px 0; }
+.bdrs-log ul ul { margin: 2px 0 0 4px; }
+.bdrs-log-meta { color: #646970; font-size: 12px; }
